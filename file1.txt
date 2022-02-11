@@ -1,4 +1,3 @@
 Hello Wolrd!!!
-12345
-Good bye!!!
+My friend, I am training to work with git)
 
