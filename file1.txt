@@ -1,6 +1,6 @@
 Hello Wolrd!!!
 My friend, I am training to work with git)
-another line from user1
+line from user2
 Good evening! (from branch master)
 
 
