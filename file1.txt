@@ -1,6 +1,6 @@
 Hello Wolrd!!!
 My friend, I am training to work with git)
-My name Aleksei
+another line from user1
 Good evening! (from branch master)
 
 
