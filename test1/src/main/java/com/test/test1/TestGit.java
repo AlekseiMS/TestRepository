@@ -1,14 +1,26 @@
 package com.test.test1;
 
-public class Test1Application {
+public class TestGit {
 
     public static void main(String[] args) {
+        Cat cat = new Cat();
+        Wolf wolf  = new Wolf();
+        Dog dog = new Dog();
+        Panther panther = new Panther();
+        cat.voice();//Кот голос
+        wolf.voice();//Волк голос
+        dog.voice();//Собака голос
+        panther.voice();//Пантера голос (пускай будет такой)
+
+        System.out.println("-----------");
+
         System.out.println("Hello!!!");
         //Сделаем счётчик от 1 до 10
         for (int i = 1; i <= 10; i++)
-            System.out.println(i);
+            System.out.print(i + " ");
 
-        System.out.println("----");
+        System.out.println();
+        System.out.println("-----------------------");
 
         //В обратном порядке
         for (int j = 10; j > 0; j--) {
